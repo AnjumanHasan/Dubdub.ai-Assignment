@@ -1,0 +1,30 @@
+[
+  {
+    "completed": true,
+    "date_created": "2023-02-18T20:33:43.543988",
+    "desc": "Eggs, Milk, Sugar, Tea, Biscuits, Apples",
+    "id": 1,
+    "task": "Get Groceries"
+  },
+  {
+    "completed": false,
+    "date_created": "2023-02-18T20:34:29.244637",
+    "desc": "Complete java assignment before 12",
+    "id": 2,
+    "task": "Complete assignemnt"
+  },
+  {
+    "completed": false,
+    "date_created": "2023-02-18T20:34:55.427985",
+    "desc": "",
+    "id": 3,
+    "task": "Go for a run"
+  },
+  {
+    "completed": false,
+    "date_created": "2023-02-18T20:59:06.571665",
+    "desc": "Aloe Plant important",
+    "id": 4,
+    "task": "Water Plants"
+  }
+]
