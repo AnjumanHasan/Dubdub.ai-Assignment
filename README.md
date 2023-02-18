@@ -67,6 +67,6 @@ Start the server
 
 - [My Resume](https://drive.google.com/file/d/10aiTwJ4Tn6z5xHWjpqbVzqIsxrzwVK9T/view?usp=share_link)
 
-- [Video Demo](https://drive.google.com/file/d/1-8rIXN1mQA8HFDLZTM5DcUH1W9KO8FBw/view?usp=share_link)
+- [Video Demo](https://drive.google.com/file/d/1-8rIXN1mQA8HFDLZTM5DcUH1W9KO8FBw/view?usp=share_link)  (The video is also added in the repository)
 
 
