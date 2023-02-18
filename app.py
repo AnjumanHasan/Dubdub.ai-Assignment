@@ -3,7 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 from datetime import datetime
 
-# PMAK-63f13f9b568b6f64e8e1ea01-4db947240b6309d960205d3a922abaf550
+
 app = Flask(__name__)
 
 app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///database.db"
