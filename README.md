@@ -1,8 +1,6 @@
 
 # Todo List Backend
 
-This is a submission repository for the intern assignment task allotted by Dubdub.ai 
-
 This is the backend of a Todo application. It has different routes for different CRUD Operations
 
 # Steps to Run
